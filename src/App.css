@@ -1,7 +1,9 @@
 .sticky-nav{
-    position: sticky;
-  top: 0;
-  width: 100%;
-  overflow: hidden;
-  z-index: 1;
+   overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #e1e1e1;
+    z-index: 1;
+    padding: 10px 0px 10px 0px;
   }

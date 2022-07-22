@@ -5,7 +5,7 @@ import { HashLink as Link } from 'react-router-hash-link';
 import "../App.css";
 
 const Container = styledComponents.div`
-height: 50px;
+height: 56px;
 `;
 const Wrapper = styledComponents.div`
 padding: 10px 20px;

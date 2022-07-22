@@ -55,7 +55,7 @@ const Button = styledComponents.button`
 
 const Navbar = () => {
     return (
-    <Container className='sticky-nav'>
+    <Container>
         <Wrapper>
             <BrowserRouter>
             <Left><Logo>
